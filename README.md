@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Shanshan Gao 👋
+## Hi, I'm Shanshan Gao 👋
 
 - 🎓 Student @ The University of Sydney (CS/SE focus)
 - 🔭 Interested in **AI Agents / Mobile Agents**, automation, and **agent safety & security**
