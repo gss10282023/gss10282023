@@ -1,4 +1,4 @@
-<img width="956" height="1128" alt="88263214-8d9e-428b-b988-ed59523a046f" src="https://github.com/user-attachments/assets/7fab44fd-1f22-4484-8cae-b780abc731ed" />## Hi there 👋
+## Hi there 👋
 
 # Hi, I'm Shanshan Gao 👋
 
