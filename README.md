@@ -51,8 +51,4 @@ Generates stories + learning content with streaming via WebSocket; PostgreSQL pe
 
 ---
 
-## Collaboration / Opportunities
-
-I’m open to **Software Engineer / Research Engineer / AI Security / Agent Engineering** opportunities.  
-Feel free to reach out.
 
